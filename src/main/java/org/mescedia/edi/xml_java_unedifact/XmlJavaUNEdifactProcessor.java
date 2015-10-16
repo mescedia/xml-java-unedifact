@@ -13,6 +13,9 @@
  * http://www.gnu.org/licenses/lgpl.txt
  */
 
+/*
+ * @author Michael Kassnel {mickas at mescedia d0t org}
+ */
 package org.mescedia.edi.xml_java_unedifact;
 
 import org.apache.camel.Exchange;
